@@ -5,9 +5,9 @@ School Project
 
 Can take two polynomials and add/subtract/multiply them.
 The polynomials are input through a textfile with the format:
-[operation]
-[Poly 1]
-[Poly 2]
+[operation] <br>
+[Poly 1] <br>
+[Poly 2] <br>
 
 Note: The format of the polynomials is a string of numbers separated by spaces. The first number out of a pair is the coefficient,
 while the second number in a pair is the exponent of x.
